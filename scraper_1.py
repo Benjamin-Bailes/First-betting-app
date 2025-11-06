@@ -1,12 +1,11 @@
 import requests
 
-url = "https://www.sportsbet.com.au/horse-racing/asia-racing/mombetsu/race-11-9805244"   # Replace with the site you want to fetch
+url = "https://www.sportsbet.com.au/horse-racing/australia-nz/gosford/race-3-9806305"   # Replace with the site you want to fetch
 
 response = requests.get(url)
 
 if response.status_code == 200:
     html = response.text
-    
     # Save to a file
     with open("page.html", "w", encoding="utf-8") as file:
         file.write(html)
@@ -18,8 +17,7 @@ else:
 
 
 
-# scrape
-
+# ----- scrape ------
 
 
 from bs4 import BeautifulSoup
