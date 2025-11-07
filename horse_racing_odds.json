@@ -1,0 +1,42 @@
+{
+    "race_1": {
+        "horses": [
+            {
+                "name": "Jolifou De Guye",
+                "odds": "61.00"
+            },
+            {
+                "name": "Emir Chop",
+                "odds": "6.00"
+            },
+            {
+                "name": "Laguinte",
+                "odds": "13.00"
+            },
+            {
+                "name": "Just A Gigolo",
+                "odds": "27.00"
+            },
+            {
+                "name": "I Risk",
+                "odds": "10.00"
+            },
+            {
+                "name": "Parisimix",
+                "odds": "1.75"
+            },
+            {
+                "name": "The Must",
+                "odds": "14.00"
+            },
+            {
+                "name": "Forza",
+                "odds": "23.00"
+            },
+            {
+                "name": "Gaz Gaz",
+                "odds": "6.00"
+            }
+        ]
+    }
+}

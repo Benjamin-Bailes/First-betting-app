@@ -1,16 +1,17 @@
 import requests
 
-url = "https://www.sportsbet.com.au/horse-racing/australia-nz/gosford/race-3-9806305"   # Replace with the site you want to fetch
+url = "https://www.sportsbet.com.au/horse-racing/international/fontainebleau/race-2-9811886"   # Replace with the site you want to fetch
+
+# Begin at homepage.
+
 
 response = requests.get(url)
-
 if response.status_code == 200:
     html = response.text
     # Save to a file
-    with open("page.html", "w", encoding="utf-8") as file:
-        file.write(html)
-
-    print("HTML saved to page.html")
+    # with open("page.html", "w", encoding="utf-8") as file:
+    #     file.write(html)
+    # print("HTML saved to page.html")
 else:
     print(f"Error: Status code {response.status_code}")
 
@@ -24,9 +25,20 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 
-with open("page.html", "r", encoding="utf-8", errors="ignore") as f:
-    soup = BeautifulSoup(f.read(), "html.parser")
 
+import json
+races = {}
+races["race_1"] = {
+    # "time": "14:30",
+    "horses": [
+    ]
+}
+
+# Open the saved HTML file
+# with open("page.html", "r", encoding="utf-8", errors="ignore") as f:
+#     soup = BeautifulSoup(f.read(), "html.parser")
+
+soup = BeautifulSoup(html, "html.parser")
 # 1) Find the race card container
 racecard = soup.select_one('div[data-automation-id="racecard-body"]') or soup
 
@@ -51,11 +63,23 @@ for card in racecard.select('div[data-automation-id^="racecard-outcome-"].outcom
             break
     
     if name and odds:
-        rows.append({"Horse": name, "Odds": odds})
+        # rows.append({"Name": name, "Odds": odds})
+        races["race_1"]["horses"].append({
+            "name": name,
+            "odds": odds
+    })
+        
+
 
 # Use the data
-df = pd.DataFrame(rows)
-print(df)
+# df = pd.DataFrame(rows)
+# print(df)
 # Optionally save:
 # df.to_csv("race1_odds.csv", index=False)
+
+
+
+# Export JSON
+with open("horse_racing_odds.json", "w") as f:
+    json.dump(races, f, indent=4)
 
