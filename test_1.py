@@ -23,9 +23,3 @@
 
 
 
-from find_races_1 import get_links
-
-links = get_links(only_results=True)
-
-for link in links:
-    print(link)
