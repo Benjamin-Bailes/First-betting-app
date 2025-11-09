@@ -6,9 +6,18 @@ import json
 
 
 
-def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/flemington/race-1-9810572", races = {}, race_name="Flemington"):
+def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/flemington/race-1-9810572", 
+                races = None, 
+                race_name="Flemingggggton",
+                race_location="Viccctoria"):
+        
         # JSON
-        races[race_name] = {
+        # if races is None:
+        #     races = {}
+        race_id = url
+        races[race_id] = {
+            "race name": race_name,
+            "race location": race_location,
             "horses": [
             ]
         }
@@ -65,7 +74,7 @@ def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/fl
             # #         break
             
             if name and win_odds and place_odds:
-                races[race_name]["horses"].append({
+                races[race_id]["horses"].append({
                     "name": name,
                     "win odds": win_odds,
                     "place odds": place_odds,
@@ -97,7 +106,7 @@ def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/fl
 
             # Update JSON with position
             if name2 and position:
-                for horse in races[race_name]["horses"]:           
+                for horse in races[race_id]["horses"]:           
                     if horse.get("name") == name2:
                         horse["position"] =  position                 
                         break

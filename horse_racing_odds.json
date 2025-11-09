@@ -1,5 +1,3953 @@
 {
-    "Flemington": {
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/ararat/race-1-9814318": {
+        "race name": "Ararat",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Salsita",
+                "win odds": 7.5,
+                "place odds": 2.3,
+                "position": 2
+            },
+            {
+                "name": "Guido",
+                "win odds": 4.8,
+                "place odds": 1.8,
+                "position": 1
+            },
+            {
+                "name": "Don Stefano",
+                "win odds": 3.5,
+                "place odds": 1.55,
+                "position": null
+            },
+            {
+                "name": "In Your Hands",
+                "win odds": 4.2,
+                "place odds": 1.7,
+                "position": null
+            },
+            {
+                "name": "Rapid Impact",
+                "win odds": 151.0,
+                "place odds": 26.0,
+                "position": null
+            },
+            {
+                "name": "Grate Crack",
+                "win odds": 7.0,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Jenni The Tank",
+                "win odds": 9.5,
+                "place odds": 2.6,
+                "position": null
+            },
+            {
+                "name": "Last Card Louie",
+                "win odds": 35.0,
+                "place odds": 6.5,
+                "position": null
+            },
+            {
+                "name": "Americain Miss",
+                "win odds": 34.0,
+                "place odds": 6.5,
+                "position": 4
+            },
+            {
+                "name": "Sabre Athena",
+                "win odds": 26.0,
+                "place odds": 5.5,
+                "position": 3
+            },
+            {
+                "name": "Tosen Glory",
+                "win odds": 46.0,
+                "place odds": 8.5,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/ararat/race-2-9814320": {
+        "race name": "Ararat",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Atomic Tommy",
+                "win odds": 126.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Brutus Junius",
+                "win odds": 41.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Larkin",
+                "win odds": 8.0,
+                "place odds": 1.9,
+                "position": null
+            },
+            {
+                "name": "Sweatband",
+                "win odds": 14.0,
+                "place odds": 2.6,
+                "position": 3
+            },
+            {
+                "name": "Bundoran",
+                "win odds": 3.8,
+                "place odds": 1.35,
+                "position": 2
+            },
+            {
+                "name": "Karumba Girl",
+                "win odds": 41.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Hand Luggage",
+                "win odds": 21.0,
+                "place odds": 3.4,
+                "position": 4
+            },
+            {
+                "name": "Romantic Miss",
+                "win odds": 1.75,
+                "place odds": 1.12,
+                "position": 1
+            },
+            {
+                "name": "Tagyourit",
+                "win odds": 12.0,
+                "place odds": 2.35,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/ararat/race-3-9814321": {
+        "race name": "Ararat",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Battle Point",
+                "win odds": 51.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Burleigh",
+                "win odds": 1.55,
+                "place odds": 1.1,
+                "position": 3
+            },
+            {
+                "name": "Paramount War",
+                "win odds": 27.0,
+                "place odds": 4.2,
+                "position": null
+            },
+            {
+                "name": "Pitman",
+                "win odds": 18.0,
+                "place odds": 3.1,
+                "position": 4
+            },
+            {
+                "name": "Watt On Earth",
+                "win odds": 17.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Hot Stepping Hippy",
+                "win odds": 12.0,
+                "place odds": 2.4,
+                "position": null
+            },
+            {
+                "name": "Petroula",
+                "win odds": 17.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Shaykhlislamova",
+                "win odds": 35.0,
+                "place odds": 5.0,
+                "position": null
+            },
+            {
+                "name": "Steelology",
+                "win odds": 151.0,
+                "place odds": 20.0,
+                "position": null
+            },
+            {
+                "name": "Hughie's Spirit",
+                "win odds": 151.0,
+                "place odds": 20.0,
+                "position": 2
+            },
+            {
+                "name": "Naitanui",
+                "win odds": 4.6,
+                "place odds": 1.5,
+                "position": 1
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/wodonga/race-1-9814266": {
+        "race name": "Wodonga",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Born Survivor",
+                "win odds": 1.35,
+                "place odds": 1.12,
+                "position": 3
+            },
+            {
+                "name": "Deep Stream",
+                "win odds": 14.0,
+                "place odds": 3.6,
+                "position": null
+            },
+            {
+                "name": "Jappalouis",
+                "win odds": 8.5,
+                "place odds": 2.5,
+                "position": 1
+            },
+            {
+                "name": "Meka Vibe",
+                "win odds": 9.5,
+                "place odds": 2.7,
+                "position": 2
+            },
+            {
+                "name": "Si Si Sir",
+                "win odds": 35.0,
+                "place odds": 8.0,
+                "position": null
+            },
+            {
+                "name": "Play It Cool",
+                "win odds": 7.0,
+                "place odds": 2.2,
+                "position": 4
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/wodonga/race-2-9814267": {
+        "race name": "Wodonga",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Grunnettan",
+                "win odds": 9.5,
+                "place odds": 2.45,
+                "position": 3
+            },
+            {
+                "name": "Second Nature",
+                "win odds": 4.5,
+                "place odds": 1.65,
+                "position": 1
+            },
+            {
+                "name": "Adare Manor",
+                "win odds": 12.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Pendante",
+                "win odds": 6.0,
+                "place odds": 1.9,
+                "position": 4
+            },
+            {
+                "name": "Parabellum",
+                "win odds": 3.2,
+                "place odds": 1.45,
+                "position": null
+            },
+            {
+                "name": "Patrick",
+                "win odds": 4.5,
+                "place odds": 1.65,
+                "position": null
+            },
+            {
+                "name": "Crusheen Lass",
+                "win odds": 9.0,
+                "place odds": 2.35,
+                "position": 2
+            },
+            {
+                "name": "Toscana Rising",
+                "win odds": 151.0,
+                "place odds": 21.0,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/wodonga/race-3-9814262": {
+        "race name": "Wodonga",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Desert Boots",
+                "win odds": 34.0,
+                "place odds": 5.0,
+                "position": null
+            },
+            {
+                "name": "Chasing Quivers",
+                "win odds": 7.5,
+                "place odds": 1.9,
+                "position": null
+            },
+            {
+                "name": "Estival",
+                "win odds": 1.85,
+                "place odds": 1.14,
+                "position": 2
+            },
+            {
+                "name": "Pendella",
+                "win odds": 34.0,
+                "place odds": 5.0,
+                "position": null
+            },
+            {
+                "name": "Rydell High",
+                "win odds": 10.0,
+                "place odds": 2.2,
+                "position": 1
+            },
+            {
+                "name": "Tap Dance",
+                "win odds": 15.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Upinthecity",
+                "win odds": 19.0,
+                "place odds": 3.2,
+                "position": 4
+            },
+            {
+                "name": "Her Legacy",
+                "win odds": 3.6,
+                "place odds": 1.35,
+                "position": 3
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/warren/race-1-9814054": {
+        "race name": "Warren",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Bawnaglen",
+                "win odds": 2.25,
+                "place odds": 1.17,
+                "position": null
+            },
+            {
+                "name": "Nortoko",
+                "win odds": 34.0,
+                "place odds": 6.25,
+                "position": null
+            },
+            {
+                "name": "Billabong Alvin",
+                "win odds": 9.5,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Broadcast Boogie",
+                "win odds": 17.0,
+                "place odds": 3.4,
+                "position": 4
+            },
+            {
+                "name": "Conversations",
+                "win odds": 31.0,
+                "place odds": 6.0,
+                "position": 3
+            },
+            {
+                "name": "Earlington",
+                "win odds": 126.0,
+                "place odds": 17.75,
+                "position": null
+            },
+            {
+                "name": "Impending Harmony",
+                "win odds": 34.0,
+                "place odds": 6.75,
+                "position": null
+            },
+            {
+                "name": "Noterbel",
+                "win odds": 10.0,
+                "place odds": 2.3,
+                "position": null
+            },
+            {
+                "name": "Preordain",
+                "win odds": 16.0,
+                "place odds": 3.4,
+                "position": 2
+            },
+            {
+                "name": "Yiasou",
+                "win odds": 2.6,
+                "place odds": 1.2,
+                "position": 1
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/warren/race-2-9814049": {
+        "race name": "Warren",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Classified Mission",
+                "win odds": 61.0,
+                "place odds": 8.0,
+                "position": null
+            },
+            {
+                "name": "Nandowrie",
+                "win odds": 17.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Unsolved",
+                "win odds": 5.0,
+                "place odds": 1.55,
+                "position": 1
+            },
+            {
+                "name": "Cobocco",
+                "win odds": 31.0,
+                "place odds": 4.4,
+                "position": null
+            },
+            {
+                "name": "I'm A Hottie",
+                "win odds": 4.2,
+                "place odds": 1.45,
+                "position": 4
+            },
+            {
+                "name": "Long Time Lovers",
+                "win odds": 10.0,
+                "place odds": 2.15,
+                "position": null
+            },
+            {
+                "name": "Megaphone Miss",
+                "win odds": 20.0,
+                "place odds": 3.3,
+                "position": 3
+            },
+            {
+                "name": "Don't Say Do",
+                "win odds": 1.85,
+                "place odds": 1.14,
+                "position": 2
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/warren/race-3-9814053": {
+        "race name": "Warren",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Starlink",
+                "win odds": 27.0,
+                "place odds": 4.2,
+                "position": null
+            },
+            {
+                "name": "Sports Page",
+                "win odds": 3.7,
+                "place odds": 1.4,
+                "position": 3
+            },
+            {
+                "name": "Autumn Song",
+                "win odds": 8.0,
+                "place odds": 1.95,
+                "position": null
+            },
+            {
+                "name": "Commando Jack",
+                "win odds": 11.0,
+                "place odds": 2.35,
+                "position": null
+            },
+            {
+                "name": "I'm Scarlett",
+                "win odds": 16.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Order Of Merit",
+                "win odds": 23.0,
+                "place odds": 3.8,
+                "position": 2
+            },
+            {
+                "name": "Regal Problem",
+                "win odds": 1.8,
+                "place odds": 1.14,
+                "position": 1
+            },
+            {
+                "name": "Laisvas",
+                "win odds": 18.0,
+                "place odds": 3.2,
+                "position": 4
+            },
+            {
+                "name": "The Hulkbuster",
+                "win odds": 126.0,
+                "place odds": 16.0,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/armidale/race-1-9814016": {
+        "race name": "Armidale",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Navy Buoy",
+                "win odds": 1.7,
+                "place odds": 1.24,
+                "position": 1
+            },
+            {
+                "name": "Naftali",
+                "win odds": 5.5,
+                "place odds": 2.15,
+                "position": 2
+            },
+            {
+                "name": "Albert's Pick",
+                "win odds": 13.0,
+                "place odds": 3.9,
+                "position": null
+            },
+            {
+                "name": "Awaken The Dream",
+                "win odds": 67.0,
+                "place odds": 17.0,
+                "position": null
+            },
+            {
+                "name": "Rufus Atticus",
+                "win odds": 6.5,
+                "place odds": 2.35,
+                "position": 3
+            },
+            {
+                "name": "Speed Of Swallows",
+                "win odds": 41.0,
+                "place odds": 10.0,
+                "position": null
+            },
+            {
+                "name": "Zougo Boss",
+                "win odds": 6.0,
+                "place odds": 2.25,
+                "position": 4
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/armidale/race-2-9814017": {
+        "race name": "Armidale",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Fuel The Jet",
+                "win odds": 17.0,
+                "place odds": 3.2,
+                "position": null
+            },
+            {
+                "name": "Dub",
+                "win odds": 9.5,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Bullant",
+                "win odds": 1.55,
+                "place odds": 1.12,
+                "position": 1
+            },
+            {
+                "name": "Show Moment",
+                "win odds": 34.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Zous Apollo",
+                "win odds": 19.0,
+                "place odds": 3.4,
+                "position": null
+            },
+            {
+                "name": "All Too Sheik",
+                "win odds": 23.0,
+                "place odds": 3.9,
+                "position": null
+            },
+            {
+                "name": "Kasumi",
+                "win odds": 61.0,
+                "place odds": 8.5,
+                "position": null
+            },
+            {
+                "name": "Invinciboo",
+                "win odds": 9.5,
+                "place odds": 2.2,
+                "position": 2
+            },
+            {
+                "name": "It's A Written",
+                "win odds": 7.0,
+                "place odds": 1.9,
+                "position": 4
+            },
+            {
+                "name": "Lulu A Natural",
+                "win odds": 31.0,
+                "place odds": 5.0,
+                "position": 3
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/sunshine-coast/race-1-9814434": {
+        "race name": "Sunshine Coast",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Rubydoo",
+                "win odds": 10.0,
+                "place odds": 3.6,
+                "position": 3
+            },
+            {
+                "name": "Tsukino",
+                "win odds": 5.0,
+                "place odds": 2.1,
+                "position": 1
+            },
+            {
+                "name": "Strike The Heart",
+                "win odds": 1.65,
+                "place odds": 1.2,
+                "position": null
+            },
+            {
+                "name": "Techna",
+                "win odds": 9.5,
+                "place odds": 3.6,
+                "position": 2
+            },
+            {
+                "name": "Echo Hunter",
+                "win odds": 10.0,
+                "place odds": 3.6,
+                "position": 4
+            },
+            {
+                "name": "Show Me The Stars",
+                "win odds": 7.5,
+                "place odds": 2.88,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/sunshine-coast/race-2-9814433": {
+        "race name": "Sunshine Coast",
+        "race location": "Australia",
+        "horses": [
+            {
+                "name": "Brown River",
+                "win odds": 46.0,
+                "place odds": 8.25,
+                "position": null
+            },
+            {
+                "name": "Highland Kitty",
+                "win odds": 5.5,
+                "place odds": 1.57,
+                "position": null
+            },
+            {
+                "name": "Amelioration",
+                "win odds": 20.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Highgrove Rose",
+                "win odds": 2.0,
+                "place odds": 1.17,
+                "position": 2
+            },
+            {
+                "name": "Rocking Frocks",
+                "win odds": 41.0,
+                "place odds": 6.25,
+                "position": null
+            },
+            {
+                "name": "Windun",
+                "win odds": 21.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Senorita Zeta",
+                "win odds": 3.6,
+                "place odds": 1.3,
+                "position": 3
+            },
+            {
+                "name": "Bellove",
+                "win odds": 15.0,
+                "place odds": 3.3,
+                "position": 1
+            },
+            {
+                "name": "Outdoor Cat",
+                "win odds": 12.0,
+                "place odds": 2.7,
+                "position": 4
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-1-9810320": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Billy",
+                "win odds": 6.0,
+                "place odds": 2.45,
+                "position": 3
+            },
+            {
+                "name": "Possess",
+                "win odds": 2.05,
+                "place odds": 1.35,
+                "position": null
+            },
+            {
+                "name": "Proudly",
+                "win odds": 12.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Barbie Doll",
+                "win odds": 4.4,
+                "place odds": 2.0,
+                "position": 1
+            },
+            {
+                "name": "Justify That",
+                "win odds": 7.5,
+                "place odds": 2.8,
+                "position": 2
+            },
+            {
+                "name": "Platinum Goddess",
+                "win odds": 8.0,
+                "place odds": 3.0,
+                "position": 4
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-2-9810324": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Alonotas",
+                "win odds": 7.5,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Sethsational",
+                "win odds": 6.5,
+                "place odds": 2.6,
+                "position": 4
+            },
+            {
+                "name": "Tifosi",
+                "win odds": 3.5,
+                "place odds": 1.75,
+                "position": 3
+            },
+            {
+                "name": "Lassified",
+                "win odds": 2.5,
+                "place odds": 1.5,
+                "position": 1
+            },
+            {
+                "name": "Vahvay",
+                "win odds": 4.0,
+                "place odds": 1.9,
+                "position": 2
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-3-9810325": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Showbastian Coe",
+                "win odds": 6.0,
+                "place odds": 2.5,
+                "position": null
+            },
+            {
+                "name": "The Stoney One",
+                "win odds": 3.7,
+                "place odds": 1.9,
+                "position": 4
+            },
+            {
+                "name": "Kana",
+                "win odds": 7.0,
+                "place odds": 2.8,
+                "position": 3
+            },
+            {
+                "name": "Party Rocking",
+                "win odds": 6.5,
+                "place odds": 2.7,
+                "position": null
+            },
+            {
+                "name": "Debbi Harri",
+                "win odds": 2.6,
+                "place odds": 1.55,
+                "position": 2
+            },
+            {
+                "name": "Luminance",
+                "win odds": 10.0,
+                "place odds": 3.6,
+                "position": null
+            },
+            {
+                "name": "Driftin",
+                "win odds": 23.0,
+                "place odds": 7.0,
+                "position": 1
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-4-9810323": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Alcaraz",
+                "win odds": 6.5,
+                "place odds": 2.0,
+                "position": 2
+            },
+            {
+                "name": "Subtle Time",
+                "win odds": 7.0,
+                "place odds": 2.15,
+                "position": null
+            },
+            {
+                "name": "Dancing Shadow",
+                "win odds": 4.4,
+                "place odds": 1.57,
+                "position": 4
+            },
+            {
+                "name": "Nedelin",
+                "win odds": 3.4,
+                "place odds": 1.4,
+                "position": 1
+            },
+            {
+                "name": "Falcrests Belle",
+                "win odds": 6.0,
+                "place odds": 1.91,
+                "position": 3
+            },
+            {
+                "name": "Vaporize",
+                "win odds": 23.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Elusive Faith",
+                "win odds": 4.8,
+                "place odds": 1.67,
+                "position": null
+            },
+            {
+                "name": "Alittleauspicious",
+                "win odds": 51.0,
+                "place odds": 11.5,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-5-9810322": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Billy Adams",
+                "win odds": 4.4,
+                "place odds": 1.7,
+                "position": null
+            },
+            {
+                "name": "Supasam",
+                "win odds": 20.0,
+                "place odds": 4.2,
+                "position": null
+            },
+            {
+                "name": "Written In Rock",
+                "win odds": 9.5,
+                "place odds": 2.6,
+                "position": null
+            },
+            {
+                "name": "Triple Threat",
+                "win odds": 4.5,
+                "place odds": 1.7,
+                "position": 2
+            },
+            {
+                "name": "Loose Belt",
+                "win odds": 18.0,
+                "place odds": 3.9,
+                "position": null
+            },
+            {
+                "name": "Smackers",
+                "win odds": 27.0,
+                "place odds": 5.0,
+                "position": 4
+            },
+            {
+                "name": "Vickezzmargaux",
+                "win odds": 7.0,
+                "place odds": 2.15,
+                "position": null
+            },
+            {
+                "name": "Merrilegs",
+                "win odds": 6.5,
+                "place odds": 2.1,
+                "position": 1
+            },
+            {
+                "name": "Autumn Queen",
+                "win odds": 3.6,
+                "place odds": 1.55,
+                "position": 3
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-6-9810326": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Market Square",
+                "win odds": 9.5,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Spinayarn",
+                "win odds": 12.0,
+                "place odds": 3.2,
+                "position": null
+            },
+            {
+                "name": "Mcgrath",
+                "win odds": 6.0,
+                "place odds": 2.15,
+                "position": 3
+            },
+            {
+                "name": "Popsagoosey",
+                "win odds": 12.0,
+                "place odds": 3.2,
+                "position": 4
+            },
+            {
+                "name": "Papa Surf",
+                "win odds": 6.5,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Rithim",
+                "win odds": 11.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Can Do",
+                "win odds": 3.4,
+                "place odds": 1.6,
+                "position": 1
+            },
+            {
+                "name": "Nightowl",
+                "win odds": 6.0,
+                "place odds": 2.15,
+                "position": 2
+            },
+            {
+                "name": "Madame Moet",
+                "win odds": 18.0,
+                "place odds": 4.2,
+                "position": null
+            },
+            {
+                "name": "Malibu",
+                "win odds": 14.0,
+                "place odds": 3.6,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-7-9810319": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Diomedes",
+                "win odds": 4.6,
+                "place odds": 2.15,
+                "position": 3
+            },
+            {
+                "name": "Privy Garden",
+                "win odds": 2.5,
+                "place odds": 1.5,
+                "position": 1
+            },
+            {
+                "name": "Wonderboy",
+                "win odds": 5.5,
+                "place odds": 2.45,
+                "position": null
+            },
+            {
+                "name": "Lemaitre",
+                "win odds": 7.5,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Zackery",
+                "win odds": 20.0,
+                "place odds": 6.5,
+                "position": null
+            },
+            {
+                "name": "Manzor Blue",
+                "win odds": 6.5,
+                "place odds": 2.7,
+                "position": 2
+            },
+            {
+                "name": "He's All Fabulous",
+                "win odds": 9.0,
+                "place odds": 3.4,
+                "position": 4
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/australia-nz/tauherenikau/race-8-9810321": {
+        "race name": "Tauherenikau",
+        "race location": "New Zealand",
+        "horses": [
+            {
+                "name": "Uncle Arch",
+                "win odds": 6.0,
+                "place odds": 2.05,
+                "position": 1
+            },
+            {
+                "name": "Retrostar",
+                "win odds": 5.5,
+                "place odds": 1.95,
+                "position": 4
+            },
+            {
+                "name": "Hickory Jack",
+                "win odds": 7.0,
+                "place odds": 2.25,
+                "position": null
+            },
+            {
+                "name": "Mohi Place",
+                "win odds": 3.8,
+                "place odds": 1.65,
+                "position": null
+            },
+            {
+                "name": "Perfect Pete",
+                "win odds": 12.0,
+                "place odds": 3.1,
+                "position": null
+            },
+            {
+                "name": "Qacentina",
+                "win odds": 20.0,
+                "place odds": 4.4,
+                "position": null
+            },
+            {
+                "name": "Fashion Savvy",
+                "win odds": 6.5,
+                "place odds": 2.15,
+                "position": 2
+            },
+            {
+                "name": "Pacific Princess",
+                "win odds": 7.0,
+                "place odds": 2.25,
+                "position": 3
+            },
+            {
+                "name": "Bean A Pleasure",
+                "win odds": 13.0,
+                "place odds": 3.3,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-1-9819728": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
         "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-2-9819725": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-3-9819729": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-4-9819731": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-5-9819726": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-6-9819727": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/abu-dhabi/race-7-9819730": {
+        "race name": "Abu Dhabi",
+        "race location": "UAE",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-1-9816181": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-2-9816182": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-3-9816183": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-4-9816184": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-5-9816185": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-6-9816186": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-7-9816187": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-8-9816188": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/wolverhampton/race-9-9816189": {
+        "race name": "Wolverhampton",
+        "race location": "United Kingdom",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-1-9816820": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-2-9816821": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-3-9816822": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-4-9816823": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-5-9816824": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/siracusa/race-6-9816825": {
+        "race name": "Siracusa",
+        "race location": "Italy",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-1-9816957": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-2-9816956": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-3-9816953": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-4-9816951": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-5-9816958": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-6-9816954": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-7-9816959": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-8-9816960": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-9-9816961": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-10-9816962": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-11-9816963": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-12-9816964": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-13-9816965": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-14-9816967": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-15-9816968": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-16-9816969": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-17-9816970": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-18-9816972": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-19-9816973": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/hipodromo-chile/race-20-9816974": {
+        "race name": "Hipodromo Chile",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-1-9816852": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-2-9816853": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-3-9816854": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-4-9816855": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-5-9816856": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-6-9816857": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-7-9816858": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-8-9816859": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-9-9816860": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-10-9816861": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-11-9816862": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-12-9816863": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-13-9816864": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-14-9816865": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-15-9816866": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-16-9816867": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/palermo/race-17-9816868": {
+        "race name": "Palermo",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-1-9816343": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-2-9816344": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-3-9816345": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-4-9816346": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-5-9816347": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-6-9816349": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-7-9816350": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-8-9816351": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/panama-city/race-9-9816352": {
+        "race name": "Panama City",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-2-9814405": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-4-9814406": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-5-9814407": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-6-9814408": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-8-9814409": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/las-americas/race-9-9814410": {
+        "race name": "Las Americas",
+        "race location": "Americas",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-1-9819708": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-2-9819712": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-3-9819713": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-4-9819710": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-5-9819714": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-6-9819706": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-7-9819707": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/lyon-la-soie/race-8-9819705": {
+        "race name": "Lyon La Soie",
+        "race location": "France",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-1-9816408": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-2-9816398": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-3-9816419": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-4-9816400": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-5-9816405": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/diyarbakir/race-6-9816418": {
+        "race name": "Diyarbakir",
+        "race location": "Turkey",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-1-9819872": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-2-9819873": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-3-9819874": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-4-9819875": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-5-9819876": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-6-9819877": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-7-9819878": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-8-9819867": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/del-mar/race-9-9819868": {
+        "race name": "Del Mar",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-1-9819920": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-2-9819921": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-3-9819922": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-4-9819923": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-5-9819924": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-6-9819925": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-7-9819926": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-8-9819927": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-9-9819928": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-10-9819929": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/churchill-downs/race-11-9819930": {
+        "race name": "Churchill Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-1-9819931": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-2-9819932": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-3-9819933": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-4-9819934": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-5-9819935": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-6-9819936": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-7-9819937": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-8-9819938": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-9-9819939": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/laurel-park/race-10-9819940": {
+        "race name": "Laurel Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-1-9819890": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-2-9819891": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-3-9819892": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-4-9819893": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-5-9819894": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-6-9819895": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-7-9819896": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-8-9819897": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-9-9819898": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-10-9819899": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/gulfstream/race-11-9819900": {
+        "race name": "Gulfstream",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-1-9819466": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-2-9819467": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-3-9819468": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-4-9819469": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-5-9819470": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-6-9819471": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-7-9819472": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-8-9819473": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/delta-downs/race-9-9819474": {
+        "race name": "Delta Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-1-9819475": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-2-9819477": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-3-9819476": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-4-9819478": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-5-9819479": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-6-9819480": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-7-9819481": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/evangeline-downs/race-8-9819482": {
+        "race name": "Evangeline Downs",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-1-9818138": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-2-9818139": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-3-9818165": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-4-9818145": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-5-9818147": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/los-alamitos-qh/race-6-9818137": {
+        "race name": "Los Alamitos Qh",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-1-9819901": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-2-9819902": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-3-9819903": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-4-9819904": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-5-9819906": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-6-9819907": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-7-9819908": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-8-9819909": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-9-9819911": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/aqueduct/race-10-9819913": {
+        "race name": "Aqueduct",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-1-9819879": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-2-9819880": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-3-9819881": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-4-9819882": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-5-9819883": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-6-9819884": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-7-9819885": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/charles-town/race-8-9819886": {
+        "race name": "Charles Town",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-1-9814293": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-2-9814269": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-3-9814292": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-4-9814280": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-5-9814271": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-6-9814268": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/international/remington-park/race-7-9814278": {
+        "race name": "Remington Park",
+        "race location": "USA",
+        "horses": []
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/seoul/race-1-9818797": {
+        "race name": "Seoul",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Cheonji Jackal",
+                "win odds": 51.0,
+                "place odds": 8.5,
+                "position": null
+            },
+            {
+                "name": "Geumseong Bulpae",
+                "win odds": 41.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Beolgyo Aladdin",
+                "win odds": 61.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Heart King",
+                "win odds": 20.0,
+                "place odds": 3.9,
+                "position": null
+            },
+            {
+                "name": "Baekhoui Ullim",
+                "win odds": 26.0,
+                "place odds": 4.8,
+                "position": null
+            },
+            {
+                "name": "Wild Smarty",
+                "win odds": 2.5,
+                "place odds": 1.3,
+                "position": 1
+            },
+            {
+                "name": "Best Urbane",
+                "win odds": 61.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Grace Day",
+                "win odds": 2.8,
+                "place odds": 1.35,
+                "position": 3
+            },
+            {
+                "name": "Best The On",
+                "win odds": 8.0,
+                "place odds": 2.2,
+                "position": 2
+            },
+            {
+                "name": "Cheonji Tank",
+                "win odds": 10.0,
+                "place odds": 2.45,
+                "position": null
+            },
+            {
+                "name": "Semyeong Peak",
+                "win odds": 11.0,
+                "place odds": 2.6,
+                "position": null
+            },
+            {
+                "name": "Global Land",
+                "win odds": 7.5,
+                "place odds": 2.1,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/seoul/race-2-9818798": {
+        "race name": "Seoul",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "B K Vivace",
+                "win odds": 51.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Amos Cheonha",
+                "win odds": 1.4,
+                "place odds": 1.08,
+                "position": 1
+            },
+            {
+                "name": "Bank Line",
+                "win odds": 10.0,
+                "place odds": 2.1,
+                "position": null
+            },
+            {
+                "name": "Pns Twin",
+                "win odds": 67.0,
+                "place odds": 8.5,
+                "position": null
+            },
+            {
+                "name": "Black Pepe",
+                "win odds": 9.0,
+                "place odds": 1.95,
+                "position": 3
+            },
+            {
+                "name": "Eodigado",
+                "win odds": 7.5,
+                "place odds": 1.8,
+                "position": null
+            },
+            {
+                "name": "Keodaran Chukbok",
+                "win odds": 81.0,
+                "place odds": 10.0,
+                "position": null
+            },
+            {
+                "name": "Raon The Clara",
+                "win odds": 17.0,
+                "place odds": 2.9,
+                "position": null
+            },
+            {
+                "name": "Powerful Knight",
+                "win odds": 8.0,
+                "place odds": 1.85,
+                "position": 2
+            },
+            {
+                "name": "Seolbong",
+                "win odds": 71.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Yeongwonhan Star",
+                "win odds": 21.0,
+                "place odds": 3.3,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/seoul/race-3-9818807": {
+        "race name": "Seoul",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Ace Match",
+                "win odds": 3.9,
+                "place odds": 1.5,
+                "position": 1
+            },
+            {
+                "name": "Gray Phantom",
+                "win odds": 5.5,
+                "place odds": 1.65,
+                "position": null
+            },
+            {
+                "name": "Guryong Cheonha",
+                "win odds": 21.0,
+                "place odds": 3.3,
+                "position": null
+            },
+            {
+                "name": "Isimnyeon Sewol",
+                "win odds": 2.15,
+                "place odds": 1.2,
+                "position": 2
+            },
+            {
+                "name": "Eclipse Bay",
+                "win odds": 6.0,
+                "place odds": 1.7,
+                "position": null
+            },
+            {
+                "name": "Kia Ora",
+                "win odds": 14.0,
+                "place odds": 2.6,
+                "position": 3
+            },
+            {
+                "name": "Dalbit Sonata",
+                "win odds": 27.0,
+                "place odds": 3.8,
+                "position": null
+            },
+            {
+                "name": "Beatriz",
+                "win odds": 61.0,
+                "place odds": 6.0,
+                "position": null
+            },
+            {
+                "name": "Cheongryong Giun",
+                "win odds": 17.0,
+                "place odds": 2.9,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/seoul/race-4-9818799": {
+        "race name": "Seoul",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Body Check",
+                "win odds": 6.0,
+                "place odds": 1.85,
+                "position": null
+            },
+            {
+                "name": "In The End Winner",
+                "win odds": 51.0,
+                "place odds": 6.5,
+                "position": null
+            },
+            {
+                "name": "Jijon Bulpae",
+                "win odds": 3.4,
+                "place odds": 1.4,
+                "position": 1
+            },
+            {
+                "name": "Gold Spinning",
+                "win odds": 34.0,
+                "place odds": 4.8,
+                "position": null
+            },
+            {
+                "name": "Sun Gallant",
+                "win odds": 13.0,
+                "place odds": 2.6,
+                "position": 3
+            },
+            {
+                "name": "Naegerowajwo",
+                "win odds": 4.6,
+                "place odds": 1.55,
+                "position": null
+            },
+            {
+                "name": "Black Russian",
+                "win odds": 2.8,
+                "place odds": 1.3,
+                "position": 2
+            },
+            {
+                "name": "Gwacheon Boss",
+                "win odds": 10.0,
+                "place odds": 2.25,
+                "position": null
+            },
+            {
+                "name": "Triple S",
+                "win odds": 35.0,
+                "place odds": 4.8,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/busan-korea/race-1-9818791": {
+        "race name": "Busan Korea",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Seobu Bigstep",
+                "win odds": 41.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Choegang Ssonsal",
+                "win odds": 13.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Choegoui Kkum",
+                "win odds": 8.5,
+                "place odds": 2.2,
+                "position": 3
+            },
+            {
+                "name": "Doctor Caesar",
+                "win odds": 9.0,
+                "place odds": 2.3,
+                "position": null
+            },
+            {
+                "name": "Fantastic Kingdom",
+                "win odds": 9.0,
+                "place odds": 2.3,
+                "position": 2
+            },
+            {
+                "name": "Baekduui Kkum",
+                "win odds": 3.1,
+                "place odds": 1.4,
+                "position": null
+            },
+            {
+                "name": "Gangseo Giant",
+                "win odds": 5.5,
+                "place odds": 1.8,
+                "position": 1
+            },
+            {
+                "name": "Sincheon First",
+                "win odds": 51.0,
+                "place odds": 8.0,
+                "position": null
+            },
+            {
+                "name": "Controller",
+                "win odds": 3.1,
+                "place odds": 1.4,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-1-9822506": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Seiun Legame",
+                "win odds": 126.0,
+                "place odds": 21.0,
+                "position": null
+            },
+            {
+                "name": "Haruhime",
+                "win odds": 5.0,
+                "place odds": 1.74,
+                "position": null
+            },
+            {
+                "name": "Gratiam",
+                "win odds": 2.4,
+                "place odds": 1.29,
+                "position": 1
+            },
+            {
+                "name": "Tama Colorin",
+                "win odds": 61.0,
+                "place odds": 10.5,
+                "position": null
+            },
+            {
+                "name": "Engelberg",
+                "win odds": 251.0,
+                "place odds": 41.0,
+                "position": null
+            },
+            {
+                "name": "Mayunite",
+                "win odds": 26.0,
+                "place odds": 4.95,
+                "position": null
+            },
+            {
+                "name": "Ancetre Modern",
+                "win odds": 61.0,
+                "place odds": 10.5,
+                "position": null
+            },
+            {
+                "name": "Cosmo Lapa Uila",
+                "win odds": 17.0,
+                "place odds": 3.6,
+                "position": null
+            },
+            {
+                "name": "Ambassade Neige",
+                "win odds": 101.0,
+                "place odds": 17.0,
+                "position": 3
+            },
+            {
+                "name": "Cobra Twist",
+                "win odds": 9.0,
+                "place odds": 2.4,
+                "position": null
+            },
+            {
+                "name": "Eager Beaver",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Arzak",
+                "win odds": 3.6,
+                "place odds": 1.5,
+                "position": 2
+            },
+            {
+                "name": "Maypole",
+                "win odds": 151.0,
+                "place odds": 26.0,
+                "position": null
+            },
+            {
+                "name": "Dream Gassan",
+                "win odds": 71.0,
+                "place odds": 12.0,
+                "position": null
+            },
+            {
+                "name": "Nyan Moro",
+                "win odds": 11.0,
+                "place odds": 2.7,
+                "position": null
+            },
+            {
+                "name": "Dona Solaire",
+                "win odds": 14.0,
+                "place odds": 3.15,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-2-9822509": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Happy Lucky",
+                "win odds": 2.9,
+                "place odds": 1.42,
+                "position": 2
+            },
+            {
+                "name": "Yukino Science",
+                "win odds": 21.0,
+                "place odds": 4.35,
+                "position": null
+            },
+            {
+                "name": "Valbona",
+                "win odds": 5.0,
+                "place odds": 1.86,
+                "position": null
+            },
+            {
+                "name": "Nisinokoharubiyori",
+                "win odds": 91.0,
+                "place odds": 11.5,
+                "position": null
+            },
+            {
+                "name": "Dreamers",
+                "win odds": 18.0,
+                "place odds": 3.95,
+                "position": null
+            },
+            {
+                "name": "Haneman",
+                "win odds": 31.0,
+                "place odds": 5.6,
+                "position": null
+            },
+            {
+                "name": "Coco Solare",
+                "win odds": 31.0,
+                "place odds": 5.6,
+                "position": null
+            },
+            {
+                "name": "Meiner Jugend",
+                "win odds": 18.0,
+                "place odds": 3.95,
+                "position": null
+            },
+            {
+                "name": "Champetre Bouquet",
+                "win odds": 11.0,
+                "place odds": 2.9,
+                "position": null
+            },
+            {
+                "name": "Ange Promise",
+                "win odds": 3.1,
+                "place odds": 1.49,
+                "position": 1
+            },
+            {
+                "name": "El Dorado",
+                "win odds": 151.0,
+                "place odds": 16.0,
+                "position": null
+            },
+            {
+                "name": "Prachtig",
+                "win odds": 71.0,
+                "place odds": 9.75,
+                "position": null
+            },
+            {
+                "name": "Seika Yuhi",
+                "win odds": 126.0,
+                "place odds": 14.0,
+                "position": null
+            },
+            {
+                "name": "Mitsukane Marte",
+                "win odds": 151.0,
+                "place odds": 16.0,
+                "position": null
+            },
+            {
+                "name": "Higgs Boson",
+                "win odds": 9.5,
+                "place odds": 2.65,
+                "position": 3
+            },
+            {
+                "name": "In The Limelight",
+                "win odds": 35.0,
+                "place odds": 6.1,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-3-9822508": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Salt Chudo",
+                "win odds": 35.0,
+                "place odds": 6.7,
+                "position": null
+            },
+            {
+                "name": "Dura Lys",
+                "win odds": 3.8,
+                "place odds": 1.6,
+                "position": 1
+            },
+            {
+                "name": "Break The Ice",
+                "win odds": 23.0,
+                "place odds": 4.8,
+                "position": null
+            },
+            {
+                "name": "Blazing Star",
+                "win odds": 4.6,
+                "place odds": 1.75,
+                "position": null
+            },
+            {
+                "name": "Noble Act",
+                "win odds": 9.5,
+                "place odds": 2.6,
+                "position": null
+            },
+            {
+                "name": "King Virgil",
+                "win odds": 101.0,
+                "place odds": 18.0,
+                "position": null
+            },
+            {
+                "name": "Welkin",
+                "win odds": 151.0,
+                "place odds": 29.0,
+                "position": null
+            },
+            {
+                "name": "Stones",
+                "win odds": 3.0,
+                "place odds": 1.44,
+                "position": 2
+            },
+            {
+                "name": "Ray Floret",
+                "win odds": 35.0,
+                "place odds": 6.7,
+                "position": 3
+            },
+            {
+                "name": "Vera Guerriero",
+                "win odds": 23.0,
+                "place odds": 4.8,
+                "position": null
+            },
+            {
+                "name": "Meisho Kumoi",
+                "win odds": 16.0,
+                "place odds": 3.65,
+                "position": null
+            },
+            {
+                "name": "Or Du Souverain",
+                "win odds": 41.0,
+                "place odds": 7.75,
+                "position": null
+            },
+            {
+                "name": "Ecoro Karen",
+                "win odds": 71.0,
+                "place odds": 13.0,
+                "position": null
+            },
+            {
+                "name": "Lily Arrow",
+                "win odds": 81.0,
+                "place odds": 14.5,
+                "position": null
+            },
+            {
+                "name": "Daishin Lealea",
+                "win odds": 6.5,
+                "place odds": 2.09,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-4-9822507": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Voll Geil",
+                "win odds": 7.5,
+                "place odds": 2.25,
+                "position": null
+            },
+            {
+                "name": "Lone Wolf",
+                "win odds": 5.5,
+                "place odds": 1.86,
+                "position": 1
+            },
+            {
+                "name": "Gravite",
+                "win odds": 18.0,
+                "place odds": 3.75,
+                "position": 3
+            },
+            {
+                "name": "Satono Lien",
+                "win odds": 20.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Glory Attain",
+                "win odds": 9.5,
+                "place odds": 2.5,
+                "position": null
+            },
+            {
+                "name": "Magna Regalia",
+                "win odds": 2.45,
+                "place odds": 1.32,
+                "position": 2
+            },
+            {
+                "name": "Arkansas",
+                "win odds": 16.0,
+                "place odds": 3.45,
+                "position": null
+            },
+            {
+                "name": "No Double Dip",
+                "win odds": 9.5,
+                "place odds": 2.5,
+                "position": null
+            },
+            {
+                "name": "Hit And Roll",
+                "win odds": 31.0,
+                "place odds": 5.45,
+                "position": null
+            },
+            {
+                "name": "Karlstad",
+                "win odds": 6.0,
+                "place odds": 1.94,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-5-9822514": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Salaphiel",
+                "win odds": 2.0,
+                "place odds": 1.18,
+                "position": null
+            },
+            {
+                "name": "Volta Do Mar",
+                "win odds": 26.0,
+                "place odds": 3.15,
+                "position": null
+            },
+            {
+                "name": "Suzuno Inazuma",
+                "win odds": 16.0,
+                "place odds": 2.5,
+                "position": null
+            },
+            {
+                "name": "Il Divino",
+                "win odds": 4.2,
+                "place odds": 1.46,
+                "position": 1
+            },
+            {
+                "name": "Golden Rookie",
+                "win odds": 12.0,
+                "place odds": 2.2,
+                "position": 2
+            },
+            {
+                "name": "Toa Marishiten",
+                "win odds": 4.8,
+                "place odds": 1.53,
+                "position": 3
+            },
+            {
+                "name": "Red La Manche",
+                "win odds": 8.5,
+                "place odds": 1.89,
+                "position": null
+            },
+            {
+                "name": "Baby Bellissimo",
+                "win odds": 67.0,
+                "place odds": 4.95,
+                "position": null
+            },
+            {
+                "name": "Destinee",
+                "win odds": 41.0,
+                "place odds": 3.9,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/fukushima/race-6-9822503": {
+        "race name": "Fukushima",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Leo Scheme",
+                "win odds": 71.0,
+                "place odds": 13.5,
+                "position": null
+            },
+            {
+                "name": "Rangiroa",
+                "win odds": 51.0,
+                "place odds": 9.75,
+                "position": null
+            },
+            {
+                "name": "Rock Band",
+                "win odds": 7.0,
+                "place odds": 2.25,
+                "position": null
+            },
+            {
+                "name": "Tsukino Kobune",
+                "win odds": 46.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Pugna Fata",
+                "win odds": 18.0,
+                "place odds": 4.15,
+                "position": null
+            },
+            {
+                "name": "Suzuno Grace",
+                "win odds": 21.0,
+                "place odds": 4.65,
+                "position": null
+            },
+            {
+                "name": "Kukka Juhla",
+                "win odds": 41.0,
+                "place odds": 8.0,
+                "position": null
+            },
+            {
+                "name": "Margot Lick",
+                "win odds": 2.5,
+                "place odds": 1.38,
+                "position": null
+            },
+            {
+                "name": "Bridge Effect",
+                "win odds": 7.0,
+                "place odds": 2.25,
+                "position": 2
+            },
+            {
+                "name": "Oriental Girl",
+                "win odds": 61.0,
+                "place odds": 11.75,
+                "position": null
+            },
+            {
+                "name": "Tagano Achillea",
+                "win odds": 6.5,
+                "place odds": 2.17,
+                "position": 3
+            },
+            {
+                "name": "Pasione",
+                "win odds": 14.0,
+                "place odds": 3.5,
+                "position": null
+            },
+            {
+                "name": "Tonde Tonde Tonde",
+                "win odds": 61.0,
+                "place odds": 11.75,
+                "position": null
+            },
+            {
+                "name": "Kitano The Breeze",
+                "win odds": 17.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Earth In Hammer",
+                "win odds": 5.5,
+                "place odds": 1.98,
+                "position": 1
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kyoto/race-1-9822538": {
+        "race name": "Kyoto",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Tagano Hidamari",
+                "win odds": 61.0,
+                "place odds": 10.0,
+                "position": null
+            },
+            {
+                "name": "Judy Imeru",
+                "win odds": 8.0,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Love In Action",
+                "win odds": 2.35,
+                "place odds": 1.28,
+                "position": null
+            },
+            {
+                "name": "Narita Armor",
+                "win odds": 3.9,
+                "place odds": 1.55,
+                "position": 3
+            },
+            {
+                "name": "Taisei Global",
+                "win odds": 71.0,
+                "place odds": 12.0,
+                "position": null
+            },
+            {
+                "name": "Ecoro Bolt",
+                "win odds": 31.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Meisho Nanashiro",
+                "win odds": 61.0,
+                "place odds": 10.0,
+                "position": null
+            },
+            {
+                "name": "Piena Viva Samba",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Namura Shinjiro",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Muteki Shacho",
+                "win odds": 8.0,
+                "place odds": 2.2,
+                "position": 1
+            },
+            {
+                "name": "Nihonpiro Aile",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Seiun Basilisk",
+                "win odds": 19.0,
+                "place odds": 3.9,
+                "position": null
+            },
+            {
+                "name": "Norino Dragon",
+                "win odds": 17.0,
+                "place odds": 3.6,
+                "position": null
+            },
+            {
+                "name": "Jakarta Bao",
+                "win odds": 23.0,
+                "place odds": 4.4,
+                "position": null
+            },
+            {
+                "name": "White Flames",
+                "win odds": 4.5,
+                "place odds": 1.65,
+                "position": null
+            },
+            {
+                "name": "Rainbow State",
+                "win odds": 101.0,
+                "place odds": 17.0,
+                "position": 2
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kyoto/race-2-9822537": {
+        "race name": "Kyoto",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Rouge Preuve",
+                "win odds": 11.0,
+                "place odds": 2.35,
+                "position": null
+            },
+            {
+                "name": "Hiruno Genova",
+                "win odds": 61.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Timeless Kiss",
+                "win odds": 2.15,
+                "place odds": 1.16,
+                "position": 1
+            },
+            {
+                "name": "Komachichan",
+                "win odds": 18.0,
+                "place odds": 2.9,
+                "position": null
+            },
+            {
+                "name": "Philae",
+                "win odds": 19.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Grand Opus",
+                "win odds": 6.0,
+                "place odds": 1.6,
+                "position": null
+            },
+            {
+                "name": "Rosa Dorada",
+                "win odds": 8.0,
+                "place odds": 1.85,
+                "position": 3
+            },
+            {
+                "name": "Smashing",
+                "win odds": 3.3,
+                "place odds": 1.3,
+                "position": 2
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kyoto/race-3-9822539": {
+        "race name": "Kyoto",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Coeli Vento",
+                "win odds": 26.0,
+                "place odds": 3.8,
+                "position": null
+            },
+            {
+                "name": "Yodono Crown",
+                "win odds": 91.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Come On Man",
+                "win odds": 5.5,
+                "place odds": 1.5,
+                "position": null
+            },
+            {
+                "name": "Dantsu Urus",
+                "win odds": 8.0,
+                "place odds": 1.8,
+                "position": 2
+            },
+            {
+                "name": "Magic Fire",
+                "win odds": 5.5,
+                "place odds": 1.5,
+                "position": null
+            },
+            {
+                "name": "Matenro Gale",
+                "win odds": 1.65,
+                "place odds": 1.09,
+                "position": 1
+            },
+            {
+                "name": "Pound For One",
+                "win odds": 10.0,
+                "place odds": 2.0,
+                "position": 3
+            },
+            {
+                "name": "Suzuka Satur",
+                "win odds": 23.0,
+                "place odds": 3.3,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kyoto/race-4-9822536": {
+        "race name": "Kyoto",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Hiruno Puglia",
+                "win odds": 6.0,
+                "place odds": 1.95,
+                "position": 1
+            },
+            {
+                "name": "Waldstein",
+                "win odds": 17.0,
+                "place odds": 3.8,
+                "position": null
+            },
+            {
+                "name": "Sharp Insight",
+                "win odds": 67.0,
+                "place odds": 11.0,
+                "position": null
+            },
+            {
+                "name": "Bradamante",
+                "win odds": 71.0,
+                "place odds": 12.0,
+                "position": null
+            },
+            {
+                "name": "Hot Seat",
+                "win odds": 2.1,
+                "place odds": 1.26,
+                "position": 2
+            },
+            {
+                "name": "Golden Thetis",
+                "win odds": 61.0,
+                "place odds": 10.0,
+                "position": null
+            },
+            {
+                "name": "Meisho Ibuki",
+                "win odds": 6.0,
+                "place odds": 2.0,
+                "position": null
+            },
+            {
+                "name": "Sunrise Nazca",
+                "win odds": 26.0,
+                "place odds": 5.0,
+                "position": null
+            },
+            {
+                "name": "Aster Epoisses",
+                "win odds": 19.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Pure Happiness",
+                "win odds": 101.0,
+                "place odds": 17.0,
+                "position": null
+            },
+            {
+                "name": "Joan",
+                "win odds": 5.5,
+                "place odds": 1.9,
+                "position": 3
+            },
+            {
+                "name": "Chant De La Terre",
+                "win odds": 51.0,
+                "place odds": 8.5,
+                "position": null
+            },
+            {
+                "name": "My Love Noripi",
+                "win odds": 67.0,
+                "place odds": 11.0,
+                "position": null
+            },
+            {
+                "name": "Kaseno Nayuta",
+                "win odds": 101.0,
+                "place odds": 17.0,
+                "position": null
+            },
+            {
+                "name": "Grand Brave",
+                "win odds": 17.0,
+                "place odds": 3.8,
+                "position": null
+            },
+            {
+                "name": "Daimei Kumamoto",
+                "win odds": 15.0,
+                "place odds": 3.5,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kyoto/race-5-9822535": {
+        "race name": "Kyoto",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Derma Bandaisan",
+                "win odds": 34.0,
+                "place odds": 4.2,
+                "position": null
+            },
+            {
+                "name": "Gold Access",
+                "win odds": 8.0,
+                "place odds": 1.65,
+                "position": 3
+            },
+            {
+                "name": "Luneville",
+                "win odds": 35.0,
+                "place odds": 4.0,
+                "position": null
+            },
+            {
+                "name": "Lovcen",
+                "win odds": 3.0,
+                "place odds": 1.18,
+                "position": 1
+            },
+            {
+                "name": "Alpenglow",
+                "win odds": 1.6,
+                "place odds": 1.07,
+                "position": 2
+            },
+            {
+                "name": "Lux Ewan",
+                "win odds": 23.0,
+                "place odds": 3.0,
+                "position": null
+            },
+            {
+                "name": "Valborg",
+                "win odds": 15.0,
+                "place odds": 2.3,
+                "position": null
+            },
+            {
+                "name": "A Shin Ignis",
+                "win odds": 18.0,
+                "place odds": 2.5,
+                "position": 3
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kanazawa/race-1-9821017": {
+        "race name": "Kanazawa",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Hakusan Reverb",
+                "win odds": 1.16,
+                "place odds": 1.01,
+                "position": 1
+            },
+            {
+                "name": "Ichiban Zakura",
+                "win odds": 81.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Riko Python",
+                "win odds": 81.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Kattobi Hokki Man",
+                "win odds": 26.0,
+                "place odds": 1.95,
+                "position": null
+            },
+            {
+                "name": "Bogatyr",
+                "win odds": 5.0,
+                "place odds": 1.35,
+                "position": 2
+            },
+            {
+                "name": "Blue Merry",
+                "win odds": 35.0,
+                "place odds": 2.15,
+                "position": 3
+            },
+            {
+                "name": "Son Of Amazon",
+                "win odds": 81.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Daiyu Rouge",
+                "win odds": 7.0,
+                "place odds": 1.4,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kanazawa/race-2-9821024": {
+        "race name": "Kanazawa",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Ruby Princess",
+                "win odds": 31.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Dastie",
+                "win odds": 126.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Shiny's Run",
+                "win odds": 2.45,
+                "place odds": 1.22,
+                "position": 1
+            },
+            {
+                "name": "Zussino",
+                "win odds": 71.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Hildebrand",
+                "win odds": 126.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Public Sphere",
+                "win odds": 1.8,
+                "place odds": 1.12,
+                "position": 2
+            },
+            {
+                "name": "Carbis Bay",
+                "win odds": 3.9,
+                "place odds": 1.45,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/kanazawa/race-3-9821016": {
+        "race name": "Kanazawa",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "World Love",
+                "win odds": 7.5,
+                "place odds": 2.0,
+                "position": null
+            },
+            {
+                "name": "Katsuno Dia",
+                "win odds": 1.22,
+                "place odds": 1.07,
+                "position": 1
+            },
+            {
+                "name": "Miyuki Jo Osama",
+                "win odds": 9.0,
+                "place odds": 2.3,
+                "position": 2
+            },
+            {
+                "name": "Solbeck",
+                "win odds": 31.0,
+                "place odds": 6.0,
+                "position": null
+            },
+            {
+                "name": "Fuku Yilan",
+                "win odds": 6.5,
+                "place odds": 1.85,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-1-9822516": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Benten Kagura",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Makalei",
+                "win odds": 2.7,
+                "place odds": 1.35,
+                "position": 1
+            },
+            {
+                "name": "Dia Tesoro",
+                "win odds": 51.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Katappochan",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Dona Solare",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Gamine",
+                "win odds": 61.0,
+                "place odds": 11.0,
+                "position": null
+            },
+            {
+                "name": "Trans Mare",
+                "win odds": 11.0,
+                "place odds": 2.8,
+                "position": null
+            },
+            {
+                "name": "Chachatto",
+                "win odds": 61.0,
+                "place odds": 11.0,
+                "position": null
+            },
+            {
+                "name": "Torenia Moon",
+                "win odds": 81.0,
+                "place odds": 14.0,
+                "position": null
+            },
+            {
+                "name": "Realize Liberty",
+                "win odds": 12.0,
+                "place odds": 2.9,
+                "position": 2
+            },
+            {
+                "name": "Music Rain",
+                "win odds": 41.0,
+                "place odds": 7.5,
+                "position": null
+            },
+            {
+                "name": "Kashino Salpare",
+                "win odds": 201.0,
+                "place odds": 34.0,
+                "position": null
+            },
+            {
+                "name": "Nishino Mare",
+                "win odds": 4.0,
+                "place odds": 1.6,
+                "position": 3
+            },
+            {
+                "name": "Yodono Sapphire",
+                "win odds": 7.0,
+                "place odds": 2.1,
+                "position": null
+            },
+            {
+                "name": "Mrs Jones",
+                "win odds": 7.5,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Frontier Moon",
+                "win odds": 6.0,
+                "place odds": 1.95,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-2-9822517": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Wolverine",
+                "win odds": 201.0,
+                "place odds": 21.0,
+                "position": null
+            },
+            {
+                "name": "Finger",
+                "win odds": 6.0,
+                "place odds": 1.55,
+                "position": 2
+            },
+            {
+                "name": "Nucleotide",
+                "win odds": 126.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Or Bright",
+                "win odds": 126.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Butchigire",
+                "win odds": 34.0,
+                "place odds": 4.6,
+                "position": null
+            },
+            {
+                "name": "Trust Sun",
+                "win odds": 201.0,
+                "place odds": 21.0,
+                "position": null
+            },
+            {
+                "name": "Magic Show",
+                "win odds": 201.0,
+                "place odds": 21.0,
+                "position": null
+            },
+            {
+                "name": "Jack Nadal",
+                "win odds": 9.5,
+                "place odds": 1.95,
+                "position": null
+            },
+            {
+                "name": "Nishino Rodman",
+                "win odds": 151.0,
+                "place odds": 18.0,
+                "position": null
+            },
+            {
+                "name": "Motorization",
+                "win odds": 151.0,
+                "place odds": 18.0,
+                "position": null
+            },
+            {
+                "name": "Kitaino Hoshi",
+                "win odds": 201.0,
+                "place odds": 21.0,
+                "position": null
+            },
+            {
+                "name": "Shonan Saio",
+                "win odds": 6.0,
+                "place odds": 1.55,
+                "position": null
+            },
+            {
+                "name": "Ecoro Ganon",
+                "win odds": 9.5,
+                "place odds": 1.95,
+                "position": 3
+            },
+            {
+                "name": "Bicky Second",
+                "win odds": 101.0,
+                "place odds": 12.0,
+                "position": null
+            },
+            {
+                "name": "Daikokuya Taemon",
+                "win odds": 61.0,
+                "place odds": 7.5,
+                "position": null
+            },
+            {
+                "name": "Saint Lazare",
+                "win odds": 1.4,
+                "place odds": 1.06,
+                "position": 1
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-3-9822525": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Face Lift",
+                "win odds": 16.0,
+                "place odds": 3.4,
+                "position": null
+            },
+            {
+                "name": "Legende",
+                "win odds": 6.0,
+                "place odds": 1.85,
+                "position": null
+            },
+            {
+                "name": "Kashino Hanzo",
+                "win odds": 201.0,
+                "place odds": 31.0,
+                "position": null
+            },
+            {
+                "name": "Love Song",
+                "win odds": 91.0,
+                "place odds": 14.0,
+                "position": null
+            },
+            {
+                "name": "Confianza",
+                "win odds": 151.0,
+                "place odds": 26.0,
+                "position": null
+            },
+            {
+                "name": "Seiun Pupa",
+                "win odds": 27.0,
+                "place odds": 4.8,
+                "position": null
+            },
+            {
+                "name": "West Kensington",
+                "win odds": 201.0,
+                "place odds": 31.0,
+                "position": null
+            },
+            {
+                "name": "Win Reflect",
+                "win odds": 126.0,
+                "place odds": 20.0,
+                "position": null
+            },
+            {
+                "name": "Ryuno Essence",
+                "win odds": 61.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Chartres",
+                "win odds": 8.0,
+                "place odds": 2.15,
+                "position": 1
+            },
+            {
+                "name": "Kazuno Daijo",
+                "win odds": 21.0,
+                "place odds": 4.0,
+                "position": 2
+            },
+            {
+                "name": "Nishino Gals",
+                "win odds": 61.0,
+                "place odds": 9.5,
+                "position": null
+            },
+            {
+                "name": "Ridere Cuore",
+                "win odds": 151.0,
+                "place odds": 26.0,
+                "position": null
+            },
+            {
+                "name": "Lavender Haze",
+                "win odds": 101.0,
+                "place odds": 15.0,
+                "position": null
+            },
+            {
+                "name": "Vio Space",
+                "win odds": 81.0,
+                "place odds": 12.0,
+                "position": null
+            },
+            {
+                "name": "Logi Cape",
+                "win odds": 1.85,
+                "place odds": 1.18,
+                "position": 3
+            },
+            {
+                "name": "Agnes Crest",
+                "win odds": 18.0,
+                "place odds": 3.6,
+                "position": null
+            },
+            {
+                "name": "Junito One",
+                "win odds": 6.5,
+                "place odds": 1.9,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-4-9822521": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Seven Wonders",
+                "win odds": 201.0,
+                "place odds": 31.0,
+                "position": null
+            },
+            {
+                "name": "Gen Bullish",
+                "win odds": 126.0,
+                "place odds": 18.0,
+                "position": null
+            },
+            {
+                "name": "Snow Alva",
+                "win odds": 13.0,
+                "place odds": 2.7,
+                "position": null
+            },
+            {
+                "name": "Blue Genesis",
+                "win odds": 51.0,
+                "place odds": 8.0,
+                "position": null
+            },
+            {
+                "name": "I'm Still Me",
+                "win odds": 61.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Neckarsulm",
+                "win odds": 20.0,
+                "place odds": 3.7,
+                "position": null
+            },
+            {
+                "name": "Win Magnifique",
+                "win odds": 61.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Cordially",
+                "win odds": 91.0,
+                "place odds": 13.0,
+                "position": null
+            },
+            {
+                "name": "Key Server",
+                "win odds": 201.0,
+                "place odds": 26.0,
+                "position": null
+            },
+            {
+                "name": "La Guairita",
+                "win odds": 9.0,
+                "place odds": 2.2,
+                "position": null
+            },
+            {
+                "name": "Bang On Time",
+                "win odds": 3.3,
+                "place odds": 1.4,
+                "position": 2
+            },
+            {
+                "name": "Radiant Star",
+                "win odds": 3.7,
+                "place odds": 1.45,
+                "position": 1
+            },
+            {
+                "name": "Pierce",
+                "win odds": 34.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Aqua Mars",
+                "win odds": 2.45,
+                "place odds": 1.26,
+                "position": 3
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-5-9822523": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Golden Pagoda",
+                "win odds": 31.0,
+                "place odds": 7.0,
+                "position": null
+            },
+            {
+                "name": "Luster Verse",
+                "win odds": 26.0,
+                "place odds": 6.0,
+                "position": null
+            },
+            {
+                "name": "Voute Celeste",
+                "win odds": 3.9,
+                "place odds": 1.6,
+                "position": 1
+            },
+            {
+                "name": "I'm In",
+                "win odds": 1.6,
+                "place odds": 1.16,
+                "position": 2
+            },
+            {
+                "name": "Quantum Star",
+                "win odds": 13.0,
+                "place odds": 3.4,
+                "position": null
+            },
+            {
+                "name": "Goko Koikoi",
+                "win odds": 3.7,
+                "place odds": 1.55,
+                "position": null
+            }
+        ]
+    },
+    "https://www.sportsbet.com.au/horse-racing/asia-racing/tokyo/race-6-9822518": {
+        "race name": "Tokyo",
+        "race location": "Asia",
+        "horses": [
+            {
+                "name": "Eccellente",
+                "win odds": 6.0,
+                "place odds": 1.85,
+                "position": null
+            },
+            {
+                "name": "Ho O Battler",
+                "win odds": 61.0,
+                "place odds": 9.0,
+                "position": null
+            },
+            {
+                "name": "Peace Sign",
+                "win odds": 12.0,
+                "place odds": 2.7,
+                "position": 1
+            },
+            {
+                "name": "Iberis Amara",
+                "win odds": 34.0,
+                "place odds": 5.5,
+                "position": null
+            },
+            {
+                "name": "Ten Red Sun",
+                "win odds": 31.0,
+                "place odds": 5.0,
+                "position": null
+            },
+            {
+                "name": "Haitei Raoyue",
+                "win odds": 101.0,
+                "place odds": 14.0,
+                "position": null
+            },
+            {
+                "name": "Royal Adelaide",
+                "win odds": 9.5,
+                "place odds": 2.35,
+                "position": 3
+            },
+            {
+                "name": "Kashima Raifu",
+                "win odds": 41.0,
+                "place odds": 6.5,
+                "position": null
+            },
+            {
+                "name": "Wonder Valuence",
+                "win odds": 101.0,
+                "place odds": 14.0,
+                "position": null
+            },
+            {
+                "name": "Derma Norikura",
+                "win odds": 201.0,
+                "place odds": 31.0,
+                "position": null
+            },
+            {
+                "name": "Yu Bourbon",
+                "win odds": 81.0,
+                "place odds": 11.0,
+                "position": null
+            },
+            {
+                "name": "Getaria",
+                "win odds": 1.7,
+                "place odds": 1.14,
+                "position": null
+            },
+            {
+                "name": "Cockpit Sight",
+                "win odds": 41.0,
+                "place odds": 6.5,
+                "position": null
+            },
+            {
+                "name": "Ferruginous",
+                "win odds": 8.0,
+                "place odds": 2.1,
+                "position": null
+            },
+            {
+                "name": "Quai Branly",
+                "win odds": 8.5,
+                "place odds": 2.2,
+                "position": 2
+            }
+        ]
     }
 }
