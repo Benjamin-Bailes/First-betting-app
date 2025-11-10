@@ -9,15 +9,17 @@ import json
 def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/flemington/race-1-9810572", 
                 races = None, 
                 race_name="Flemingggggton",
-                race_location="Viccctoria"):
+                race_location="Viccctoria",
+                date = "00/00/0000"):
         
         # JSON
-        # if races is None:
-        #     races = {}
+        if races is None:
+            races = {}
         race_id = url
         races[race_id] = {
             "race name": race_name,
             "race location": race_location,
+            "date": date,
             "horses": [
             ]
         }
@@ -73,13 +75,22 @@ def get_results(url = "https://www.sportsbet.com.au/horse-racing/australia-nz/fl
             # #         price_flucs.append(float(t))
             # #         break
             
-            if name and win_odds and place_odds:
+
+            if name:
                 races[race_id]["horses"].append({
                     "name": name,
                     "win odds": win_odds,
                     "place odds": place_odds,
                     "position": None
-            })
+                })
+            # if win_odds:
+            #     races[race_id]["horses"].append({
+            #         "win odds": win_odds,
+            #     })
+            # if place_odds:
+            #     races[race_id]["horses"].append({
+            #         "place odds": place_odds,
+            #     })
                 
 
 

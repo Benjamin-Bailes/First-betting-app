@@ -1,3 +1,8 @@
 .venv/
+.__pycache__
+*.json
+*.csv
+
+
 horse_racing_odds.json
 horse_data.csv

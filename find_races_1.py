@@ -29,7 +29,7 @@ def get_links(only_results = True, url = "https://www.sportsbet.com.au/racing-sc
         t = race_name_el.get_text(",")
         race_name, race_location = t.split(",", 1) # Split based on comma                     
 
-        # Get links
+        # Get links - VERY INEFFICIENT ATM, Searching for NOT, maybe if I changed the logic it would be better.
         if only_results:
             # event_cells are the small little boxes in each row
             event_cells = row.find_all("td", attrs={
@@ -73,4 +73,3 @@ def get_links(only_results = True, url = "https://www.sportsbet.com.au/racing-sc
 
 
 
-get_links()
