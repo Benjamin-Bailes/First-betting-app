@@ -5,10 +5,10 @@ from find_races_1 import get_links
 from results_scraper import get_results
 
 
-# home_page = "https://www.sportsbet.com.au/racing-schedule/results/2025-11-09"
-# date = "9-11-2025"
-home_page = "https://www.sportsbet.com.au/racing-schedule/horse/today"
-date = str(date.today().strftime("%d-%m-%Y"))
+home_page = "https://www.sportsbet.com.au/racing-schedule/results/2025-11-09"
+date = "9-11-2025"
+# home_page = "https://www.sportsbet.com.au/racing-schedule/horse/today"
+# date = str(date.today().strftime("%d-%m-%Y"))
 
 
 races = {}
